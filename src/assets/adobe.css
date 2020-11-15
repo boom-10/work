@@ -1,0 +1,252 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+}
+#max{
+    width: 1970px;
+    
+    margin: 0 auto;
+}
+.biaoti{
+    height: 21.24px;
+    width: 24px;
+}
+#adobe{
+    
+  background-color:  #fa0f00;
+  display: inline-block;
+}
+.nav{
+    height: 60px;
+    font-size: 18px;
+    color: #fa0f00;
+    line-height: 60px;
+    font-weight: 600;
+    margin-left: 290px;
+    margin-bottom: 10px;
+    
+}
+.first2{
+    /* margin-left: 290px; */
+    height: 60px;
+    display: inline-block;
+    width: 123.23px;
+    text-align: center;
+    font-size: 14px;
+}
+.first2>a{
+    color: black;
+}
+.first2:hover{
+    background-color: #f5f5f5;
+}
+.first{
+    margin-right: 290px;
+}
+.first3{
+    margin-left: 280px;
+    font-size: 14px;
+    height: 60px;
+}
+.first31{
+    margin-top: 5px;
+}
+.max2{
+    width: 1970px;
+   background-image: url(img/微信图片_20201112230405.jpg);
+   background-size: cover;
+    margin: 0 auto;
+    height: 650px;
+}
+.neirong{
+    
+    
+    position: relative;
+    top: 180px;
+    left: 400px;
+    width: 500px;
+}
+.second{
+    font-size: 42px;
+    font-weight: 550;
+}
+.second2{
+    font-size: 42px;
+    font-weight: 550;
+}
+.second3{
+    font-size: 18px;
+}
+#second3{
+    margin-top: 20px;
+}
+.second4{
+    display: block;
+    width: 88px;
+    height: 32px;
+    border: 1px solid #505050;
+    text-align: center;
+    line-height: 32px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.second4:hover{
+    color: white;
+    background-color: #505050;
+}
+.max3{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+.third1{
+    list-style: none;
+    display: inline-block;
+    width: 578px;
+    height: 590px;
+   background-image: url(img/微信图片_20201112230412.jpg);
+   background-size: cover;
+    margin-top: 40px;
+    margin-top: 20px;
+}
+.third2{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.third3{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.third1>a{
+    color: black;
+}
+.tonglan{
+    background-color: #fafafa;
+    width: 100%;
+}
+
+.five{
+    margin: 0 auto;
+    width: 500px;
+    height: 30px;
+   
+}.five1{
+    width: 25px;
+    height: 25px;
+}
+.fonter{
+    width: 100%;
+    border-top: 1px solid #999999;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.five1{
+    font-size: 14px;
+    
+}
+.five2{
+    margin-top: 5px;
+}
+.four{
+    width: 1400px;
+
+    margin: 0 auto;
+    padding: 30px;
+}
+#four>li{
+    list-style: none;
+       
+}
+#four{
+    display: flex;
+    padding-top: 20px;
+}
+.four1{
+    height: 260px;
+    flex: 1;
+    padding-left: 25px;
+}
+.four2{
+height: 260px;
+flex: 2;
+border-left: 1px solid #999999;
+border-right: 1px solid #999999;
+}
+.four11{
+    font-size: 14px;
+    font-weight: 600;
+}
+.four121{
+    font-size: 12px;
+    color: black;
+    margin-top: 7px;
+}
+.four12{
+    margin-top: px;
+    display: block;
+}
+#four121{
+    width: 230px;
+    display: inline-block;
+}
+.four3{
+    width: 500px;
+    margin: 0 auto;
+    border-bottom: 1px solid #999999;
+}
+.four4{
+    width: 25px;
+    height: 25px;
+    margin-top: 20px;
+}
+.four5{
+    border-left: 1px solid #999999;
+}
+.fonter{
+    display: flex;
+    justify-content: space-between;
+}
+.six2>li{
+    list-style: none;
+    display: inline-block;
+}
+.six2{
+    color: #4B4B4B;
+    font-size: 12px;
+}
+.six1{
+    color: #4B4B4B;
+    font-size: 12px;
+}
+.last{
+    margin-top: 50px;
+}
+#four>a:hover{
+    color: #a2999c;
+}
+#four>a{
+    color: #4b4b95;
+}
+.four121:hover{
+    color:#a299a9;
+}
+.five1{
+    font-size: 14px;
+    color: #4B4B4B;
+}
+.five1:hover{
+    color:#a299a9;
+}
+.six21>a{
+    color: #4B4B4B;
+}
+.six21>li:hover
+{
+    color:#a299a9;
+}
